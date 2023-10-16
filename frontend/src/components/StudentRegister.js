@@ -8,6 +8,7 @@ const StudentRegister=()=>{
      const [mobile,setMobile]=useState("");
      const [dob,setDob]=useState("");
      const  navigate = useNavigate();
+     //const [error,setError]=React.useState(false)
   useEffect(()=>{
       const auth = localStorage.getItem('s-user');
       if(auth){
