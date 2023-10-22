@@ -8,7 +8,6 @@ const StudentRegister=()=>{
      const [mobile,setMobile]=useState("");
      const [dob,setDob]=useState("");
      const  navigate = useNavigate();
-     //const [error,setError]=React.useState(false)
   useEffect(()=>{
       const auth = localStorage.getItem('s-user');
       if(auth){
@@ -21,10 +20,7 @@ const StudentRegister=()=>{
             alert("Please fill all the fields")
             return false;
         }
-        else if(username=='bhrigu@111'){
-            alert("This username is already taken! Please try another one.")
-            return false;
-        }
+       
         let result = await fetch("http://localhost:5000/register/student", {
           method: "post",
           body: JSON.stringify({fullname, username, email, password,mobile,dob }),

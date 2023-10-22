@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300;400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-merriweather-sans: "Merriweather Sans";
+  --font-lato: Lato;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-2xs: 11px;
+  --font-size-xl: 20px;
+  --font-size-26xl: 45px;
+  --font-size-28xl: 47px;
+  --font-size-30xl: 49px;
+  --font-size-29xl: 48px;
+  --font-size-69xl: 88px;
+  --font-size-6xl: 25px;
+
+  /* Colors */
+  --color-moccasin: #ffecba;
+  --color-dimgray: #655959;
+  --color-white: #fff;
+  --color-darkgray: #a69782;
+  --color-black: #000;
+  --color-gray-100: rgba(0, 0, 0, 0.72);
+  --color-gray-200: rgba(0, 0, 0, 0.88);
+  --color-gray-300: rgba(0, 0, 0, 0.75);
+  --color-blanchedalmond: #ffecce;
+  --color-darkslategray: #473d28;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-11xl: 30px;
+
+  /* Border radiuses */
+  --br-39xl: 58px;
+  --br-17xl: 36px;
+  --br-base: 16px;
+  --br-5xl: 24px;
+}

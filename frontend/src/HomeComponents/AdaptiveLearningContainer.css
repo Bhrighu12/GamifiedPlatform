@@ -1,0 +1,47 @@
+.various-training-courses-for-c {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  width: 328px;
+  height: 237px;
+  object-fit: cover;
+}
+.various-training-courses-for-c-wrapper {
+  position: absolute;
+  top: 18px;
+  left: 10px;
+  background-color: var(--color-dimgray);
+  width: 328px;
+  height: 264px;
+}
+.adaptive-learning,
+.structured-form-of {
+  position: absolute;
+  top: 280px;
+  left: 74px;
+  letter-spacing: 0.08em;
+  font-weight: 300;
+}
+.structured-form-of {
+  top: 312px;
+  left: 91px;
+  font-size: var(--font-size-2xs);
+  line-height: 151.19%;
+  font-family: var(--font-roboto);
+  display: inline-block;
+  width: 165px;
+}
+.frame-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-dimgray);
+  width: 348px;
+  height: 363px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-merriweather-sans);
+}

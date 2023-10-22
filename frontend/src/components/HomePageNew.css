@@ -1,0 +1,261 @@
+.home-page-2-child,
+.home-page-2-item {
+  position: absolute;
+  top: 638px;
+  left: 1349px;
+  width: 19px;
+  height: 26px;
+}
+.home-page-2-item {
+  left: 796px;
+}
+.home-page-2-inner,
+.line-div {
+  position: absolute;
+  top: 776.5px;
+  left: 367.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 273px;
+  height: 1px;
+  display: none;
+}
+.line-div {
+  left: 89.5px;
+  width: 279px;
+}
+.group-icon,
+.polygon-icon {
+  position: absolute;
+  top: 772px;
+  left: 83px;
+  width: 7px;
+  height: 7px;
+  display: none;
+}
+.group-icon {
+  top: 1118px;
+  left: 722px;
+  width: 0;
+  height: 777px;
+}
+.home-page-2-child1,
+.home-page-2-child2,
+.home-page-2-child3,
+.rectangle-div {
+  position: absolute;
+  top: 271px;
+  left: 0;
+  background-color: var(--color-dimgray);
+  box-shadow: -1px 6px 4px 1px rgba(0, 0, 0, 0.25);
+  width: 50px;
+  height: 12px;
+}
+.home-page-2-child1,
+.home-page-2-child2,
+.home-page-2-child3 {
+  left: 1403px;
+  box-shadow: 1px 6px 4px 1px rgba(0, 0, 0, 0.25);
+  width: 37px;
+}
+.home-page-2-child2,
+.home-page-2-child3 {
+  top: 293px;
+  left: 0;
+  box-shadow: -1px 6px 4px 1px rgba(0, 0, 0, 0.25);
+  width: 34px;
+}
+.home-page-2-child3 {
+  left: 1403px;
+  box-shadow: 1px 6px 4px 1px rgba(0, 0, 0, 0.25);
+  width: 37px;
+}
+.teaching-children-about,
+.why-to-choose {
+  position: absolute;
+  top: 807px;
+  left: 67px;
+  display: inline-block;
+  width: 1249px;
+  height: 251px;
+}
+.why-to-choose {
+  top: 3551px;
+  width: 740px;
+  height: 151px;
+}
+.knowledge-of-their,
+.understanding-their-legal {
+  position: absolute;
+  top: 1290px;
+  left: 751px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.08em;
+  line-height: 151.19%;
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  display: inline-block;
+  width: 603px;
+  height: 385px;
+}
+.knowledge-of-their {
+  top: 2011px;
+  left: 74px;
+}
+.business-mom-working-at-laptop {
+  position: absolute;
+  top: 1115px;
+  left: 31px;
+  width: 715px;
+  height: 560px;
+  object-fit: cover;
+}
+.empowerment {
+  position: absolute;
+  top: 1146px;
+  left: 746px;
+}
+.protective,
+.social-justice {
+  position: absolute;
+  top: 1867px;
+  left: 67px;
+}
+.social-justice {
+  top: 2684px;
+  left: 824px;
+}
+.children-chatting-with-books,
+.judge-gavel-with-law-books-and {
+  position: absolute;
+  top: 1867px;
+  left: 720px;
+  width: 721px;
+  height: 560px;
+  object-fit: cover;
+}
+.children-chatting-with-books {
+  top: 2672px;
+  left: 0;
+}
+.education-about-laws {
+  position: absolute;
+  top: 2841px;
+  left: 824px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.08em;
+  line-height: 151.19%;
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  display: inline-block;
+  width: 558px;
+  height: 527px;
+}
+.what-kind-of {
+  position: absolute;
+  top: 57px;
+  left: 76px;
+}
+.interface-arrows-button-down-b {
+  position: absolute;
+  top: 65px;
+  left: 1207.61px;
+  width: 47.79px;
+  height: 48.49px;
+  overflow: hidden;
+}
+.how-will-you-solve-the-problem-parent,
+.is-there-any-way-to-get-clarit-parent,
+.what-kind-of-courses-we-provid-parent {
+  position: absolute;
+  top: 3718px;
+  left: 66px;
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  box-shadow: 6px 9px 5px 1px rgba(0, 0, 0, 0.25);
+  width: 1307px;
+  height: 175px;
+  overflow: hidden;
+  font-size: var(--font-size-30xl);
+}
+.how-will-you-solve-the-problem-parent,
+.is-there-any-way-to-get-clarit-parent {
+  top: 4357px;
+  left: 75px;
+}
+.how-will-you-solve-the-problem-parent {
+  top: 4996px;
+  left: 67px;
+}
+.engaging-courses {
+  position: absolute;
+  top: 32px;
+  left: 26px;
+}
+.our-website-offers {
+  position: absolute;
+  top: 141px;
+  left: 27px;
+  font-size: var(--font-size-26xl);
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 1195px;
+}
+.engaging-courses-parent,
+.interactive-quizzes-parent {
+  position: absolute;
+  top: 3909px;
+  left: 151px;
+  background-color: var(--color-white);
+  width: 1222px;
+  height: 402px;
+  overflow: hidden;
+  font-size: var(--font-size-28xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-roboto);
+}
+.interactive-quizzes-parent {
+  top: 4548px;
+  left: 160px;
+}
+.our-website-is {
+  position: absolute;
+  top: 141px;
+  left: 27px;
+  font-size: var(--font-size-26xl);
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 1179px;
+}
+.illustration-visuals-and-game-parent {
+  position: absolute;
+  top: 5187px;
+  left: 152px;
+  background-color: var(--color-white);
+  width: 1222px;
+  height: 402px;
+  overflow: hidden;
+  font-size: var(--font-size-28xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-roboto);
+}
+.home-page-2 {
+  position: sticky;
+  background-color: #fad77d;
+  width: 100%;
+  height: 5772px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-69xl);
+  color: var(--color-black);
+  font-family: var(--font-merriweather-sans);
+}
+.home-page-new {
+  position: sticky;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}

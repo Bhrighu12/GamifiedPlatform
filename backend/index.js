@@ -15,6 +15,7 @@ app.post("/register/student", async (req, resp) => {
     return resp.status(400).json({ message: "Username or email is already in use." });
     
   }
+  else{ 
   let user = new User(req.body);
   let result = await user.save();
   result = result.toObject();
@@ -27,6 +28,7 @@ app.post("/register/student", async (req, resp) => {
    }
    resp.send({ result , auth: token });
  });
+}
 });
 
 app.post("/login", async (req, resp) => {
@@ -48,6 +50,7 @@ app.post("/login", async (req, resp) => {
     resp.send({ result: "Enter all fields" });
   }
 });
+
 
 app.listen(5000);
 

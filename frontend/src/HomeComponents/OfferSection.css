@@ -1,0 +1,132 @@
+.frame-child {
+  position: absolute;
+  top: 25px;
+  left: 1189px;
+  width: 19px;
+  height: 26px;
+  display: none;
+}
+.what-we-offer {
+  position: relative;
+  letter-spacing: 0.06em;
+  font-weight: 300;
+  
+}
+.what-we-offer-wrapper {
+  position: absolute;
+  top: 0;
+  left: 27px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-3xs);
+}
+.frame,
+.frame-icon {
+  position: absolute;
+  top: 16px;
+  left: 498px;
+  width: 381px;
+  height: 54px;
+  overflow: hidden;
+}
+.frame-icon {
+  top: 77px;
+  left: 505px;
+  width: 367px;
+  height: 9px;
+}
+.various-training-courses-for-c1 {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  width: 328px;
+  height: 237px;
+  object-fit: cover;
+}
+.various-training-courses-for-c-container {
+  position: absolute;
+  top: 18px;
+  left: 10px;
+  background-color: var(--color-darkgray);
+  width: 328px;
+  height: 264px;
+  display: none;
+}
+.quiz {
+  position: absolute;
+  top: 280px;
+  left: 150px;
+  letter-spacing: 0.08em;
+  font-weight: 300;
+}
+.to-enhance-the {
+  margin: 0;
+}
+.to-enhance-the-container {
+  position: absolute;
+  top: 305px;
+  left: 92px;
+  font-size: var(--font-size-2xs);
+  letter-spacing: 0.08em;
+  line-height: 151.19%;
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  display: inline-block;
+  width: 182px;
+}
+.frame-group {
+  position: absolute;
+  top: 0;
+  left: 917px;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-dimgray);
+  width: 348px;
+  height: 363px;
+  overflow: hidden;
+}
+.boy-is-tired-of-doing-homework,
+.game-design-and-game-developme {
+  position: absolute;
+  top: 42px;
+  left: 461px;
+  width: 344px;
+  height: 227px;
+  object-fit: cover;
+}
+.boy-is-tired-of-doing-homework {
+  top: 36px;
+  left: 950px;
+  width: 299px;
+  height: 238px;
+}
+.frame1,
+.polygon-parent {
+  position: absolute;
+  top: 105px;
+  left: 56px;
+  width: 1265px;
+  height: 363px;
+  overflow: hidden;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-merriweather-sans);
+}
+.polygon-parent {
+  top: 50px;
+  left: 31px;
+  border-radius: var(--br-39xl);
+  background-color: var(--color-moccasin);
+  box-shadow: -6px 8px 4px rgba(0, 0, 0, 0.25);
+  width: 1377px;
+  height: 512px;
+  text-align: left;
+  font-size: var(--font-size-26xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
+.link{
+  text-decoration: none;
+  color: aliceblue;
+}
